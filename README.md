@@ -22,3 +22,4 @@ Linux and networking enthusiast exploring backend development, infrastructure, a
 [![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
